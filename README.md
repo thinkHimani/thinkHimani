@@ -30,10 +30,8 @@
 <br><br><br><br><br><br><br><br><br>
 
 <h3 align="left">Associations:</h3>
-<p><img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpcTJrcXQ0YmdmMTN4MzJuazJ6MXY2eXFpMnA4ODh6c3c4dXYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yycmuWmdKM0saSsCjj/giphy.gif"><img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGsxcDJyYzAzcWJ2ZWl0ZXMxZXM4OWNwcTVyNWQ5eWttZ212bTU0eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/r9V04aRDFj9CsBNuiC/giphy.gif">
-<img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0aWFyajcwczY3NTNhd2lvcXQ0aDBiM2lhcXZ3dTFzdXJydm5qciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1YbB4e1vZ1IUekJ0pr/giphy.gif">
-<img width = "200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3ZDEwcXB2czNkdTkycWkxc2ttMGtrMHV4N2Zqa21qeGN0YmNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4T5sShJJTaiaaHedqf/giphy.gif">
-<img width = "200" src"assets/ghc.jpg">
+<p>  
+<img width = "200" src="assets/ghc.jpg"> <img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanhpcTJrcXQ0YmdmMTN4MzJuazJ6MXY2eXFpMnA4ODh6c3c4dXYzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/yycmuWmdKM0saSsCjj/giphy.gif"> <img width="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2p0aWFyajcwczY3NTNhd2lvcXQ0aDBiM2lhcXZ3dTFzdXJydm5qciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1YbB4e1vZ1IUekJ0pr/giphy.gif"> <img width = "200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjI3ZDEwcXB2czNkdTkycWkxc2ttMGtrMHV4N2Zqa21qeGN0YmNwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/4T5sShJJTaiaaHedqf/giphy.gif">
 </p>
 
 <!--
